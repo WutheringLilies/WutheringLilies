@@ -2,7 +2,7 @@
 
 <div align="center">
 
-“I want to seek the truth.”
+“ ᵢ 𝓌ₐₙₜ ₜₒ ₛₑₑₖ ₜₕₑ ₜᵣᵤₜₕ.”
 
 </div>
 
