@@ -5,7 +5,6 @@
 “ 𝑰 𝓌ᵢₛℎₑ𝒹 ₜₒ ₛ𝑒ₑₖ 𝒕ₕₑ ₜᵣᵤₜₕ.”
 
 </div>
-
 <p align="center">
-  <img src="https://www.vecteezy.com/free-vector/modern-white-background" width="1000%">
+  <img src="https://www.vecteezy.com/free-vector/modern-white-background" width="100%" height="60">
 </p>
