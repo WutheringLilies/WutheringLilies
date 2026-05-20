@@ -6,6 +6,3 @@
 
 ![](https://www.rolimons.com/item/120600475930574)
 
-<p align="center">
-  <img src="https://media.tenor.com/j5_SNSeAgRsAAAAj/cookie-run-kingdom-cookie-run.gif" alt="Cookie Run GIF">
-</p>
