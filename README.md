@@ -7,5 +7,5 @@
 </div>
 
 <p align="center">
-  <img src="https://simple.wikipedia.org/wiki/Lily" width="1000">
+  <img src="https://simple.wikipedia.org/wiki/Lily" width="1000%">
 </p>
