@@ -4,4 +4,4 @@
 
 “ 𝑰 𝓌ᵢₛℎₑ𝒹 ₜₒ ₛ𝑒ₑₖ 𝒕ₕₑ ₜᵣᵤₜₕ.”
 
-[![Atabook](https://www.rolimons.com/item/120600475930574)](https://ieathimfordinner.atabook.org/)
+[Atabook](https://www.rolimons.com/item/120600475930574)](https://ieathimfordinner.atabook.org/)
