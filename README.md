@@ -7,5 +7,5 @@
 </div>
 
 <p align="center">
-  <img src="https://simple.wikipedia.org/wiki/Lily" width="100%">
+  <img src="https://www.vecteezy.com/free-vector/modern-white-background" width="1000%">
 </p>
